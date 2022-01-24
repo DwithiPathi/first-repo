@@ -1,6 +1,6 @@
-Hello........
+Hello.........
 This is Dwithi Reddy
-NorthWest Missouri State University,Maryville,Missouri
+NorthWest Missouri State University,Maryville,Missouri.
 Computer Science
 Web Apps(diff on line 5)
 s546908
